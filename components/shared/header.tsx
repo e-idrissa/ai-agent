@@ -3,7 +3,6 @@
 import { SignedIn, SignedOut, SignInButton, UserButton } from "@clerk/nextjs";
 import { Button } from "../ui/button";
 import { Logo } from "./logo";
-import { ToggleMode } from "./toggle-mode";
 import Link from "next/link";
 
 export const Header = () => {
